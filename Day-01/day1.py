@@ -28,4 +28,4 @@ cgpa = 8.1
 print(type(name))
 print(type(education))
 print(type(year))
-print(type(cgpa))
+print(type(cgpa))                                                               
