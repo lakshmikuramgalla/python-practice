@@ -24,4 +24,4 @@
 Understood Python fundamentals, variables, and basic data types through hands-on practice.
 
 ## Next Goal
-Learn Python Operators.
+Learn Python Operators .
