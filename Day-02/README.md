@@ -5,13 +5,18 @@
 - Comparison Operators
 - Assignment Operators
 - Bitwise Operators
+- Logical Operators
+- Membership Operators
+- Identity Operators
+- Operator Precedence
 
 ## Practical Work
+- Practiced all 8 types of Python operators.
 - Wrote and executed Python programs.
-- Practiced different operators with examples.
-- Verified program outputs.
+- Solved practice questions.
+- Verified outputs using different examples.
 
 ## Key Learning
-Understood how Python operators perform calculations, comparisons, assignments, and bitwise operations.
+Learned how to use Python operators for calculations, comparisons, logical conditions, bitwise operations, and expressions.
 
-**Status:** Day 02 – Completed (Part 1)
+**Status:** Completed
