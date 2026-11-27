@@ -1,0 +1,11 @@
+marks = [20,14,56,72,[33,83,59],77,65,87,90,[45,78,88,[62,64,9,4],35,15],62,1,3,2]
+print(len(marks))
+print(marks[4])
+print(marks[4][1])
+print(marks[9])
+print(marks[9][3][0:2:1])
+print(marks[9][3][3:0:-1])
+print(marks[9][3][-3:-1])
+print(marks[9][3][-1:0:-1])
+print(marks[9][3][-1:-3:-1])
+print(marks[9][3][::-1])
