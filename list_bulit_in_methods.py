@@ -66,3 +66,12 @@ game_score.sort()
 print(game_score)
 game_score.sort(reverse=True)
 print("descending sorting :" ,game_score)
+
+# del operator in list
+marks2 = [10,20,45,59,77,92,90,84]
+del marks2[0]
+print(marks2)
+del marks2[1:4]
+print(marks2)
+del marks2 # list deleted in memory loaction
+print(marks2)
