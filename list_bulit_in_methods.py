@@ -34,3 +34,35 @@ print(maths_marks,type(maths_marks))
 top_marks = [90,95,92,97]
 maths_marks.extend(top_marks)
 print(maths_marks)
+
+# index()
+game_score = [50,30,76,25,84,81,55,43,10,25,50]
+print(game_score.index(30))
+
+# insert()
+game_score.insert(3,90)
+print(game_score)
+game_score.insert(-1,95)
+print(game_score)
+
+# pop()
+print(game_score.pop())
+print(game_score)
+
+# pop(index)
+print(game_score.pop(-4))
+print(game_score)
+
+# remove()
+game_score.remove(25)
+print(game_score)
+
+# reverse()
+game_score.reverse()
+print(game_score)
+
+# sort()
+game_score.sort()
+print(game_score)
+game_score.sort(reverse=True)
+print("descending sorting :" ,game_score)
