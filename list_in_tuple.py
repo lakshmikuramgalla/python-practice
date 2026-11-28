@@ -1,0 +1,8 @@
+stud_marks = (39,45,67,[25,15,10],77)
+print(stud_marks,type(stud_marks))
+stud_marks[3].append(25)
+print(stud_marks)
+stud_marks[3].sort()
+print(stud_marks)
+stud_marks[3].insert(2,6)
+print(stud_marks)
